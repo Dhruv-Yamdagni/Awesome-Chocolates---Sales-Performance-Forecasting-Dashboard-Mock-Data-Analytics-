@@ -1,0 +1,2 @@
+# Awesome-Chocolates---Sales-Performance-Forecasting-Dashboard-Mock-Data-Analytics-
+An end-to-end Power BI business intelligence project built on simulated retail sales data for Awesome Chocolates, a fictional confectionery brand. The dashboard demonstrates dimensional data modeling, sales performance analysis, geographical distribution, and time-series demand forecasting using a Star Schema structure.
