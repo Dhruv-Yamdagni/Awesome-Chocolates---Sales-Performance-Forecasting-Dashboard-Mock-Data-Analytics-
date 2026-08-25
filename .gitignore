@@ -1,0 +1,17 @@
+# Power BI Auto-Recovery and Temp Files
+*.tmp
+*.temp
+*AutoRecovery*
+~$*
+
+# Power BI Project Local Cache & Settings (PBIP)
+*.pbip.cache/
+*.pbip.settings
+.pbi/localSettings.json
+.pbi/editorSettings.json
+.pbi/cache.abf
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
